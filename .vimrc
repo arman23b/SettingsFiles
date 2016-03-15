@@ -15,7 +15,6 @@ set hlsearch
 set hidden
 highlight MatchParen ctermbg=4
 filetype off
-set runtimepath+=$GOROOT/misc/vim
 filetype plugin indent on
 syntax on
 set laststatus=2
